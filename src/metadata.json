@@ -1,10 +1,10 @@
 {
   "name": "Maximized by default",
   "version": "1.0.0",
-  "description": "Make all windows maximized on start.",
-  "url": "https://github.com/aXe1/gnome-shell-extension-maximized-by-default",
-  "uuid": "gnome-shell-extension-maximized-by-default@axe1.github.com",
+  "description": "Make all windows maximized on start. For of https://github.com/aXe1/gnome-shell-extension-maximized-by-default",
+  "url": "https://github.com/brennoflavio/gnome-shell-extension-maximized-by-default",
+  "uuid": "gnome-shell-extension-maximized-by-default@brennoflavio.com.br",
   "shell-version": [
-    "3.20.4"
+    "46"
   ]
 }
