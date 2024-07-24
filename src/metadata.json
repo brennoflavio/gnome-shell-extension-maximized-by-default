@@ -1,9 +1,9 @@
 {
-  "name": "Maximized by default",
+  "name": "Maximized by default reborn",
   "version": "1.0.0",
-  "description": "Make all windows maximized on start. For of https://github.com/aXe1/gnome-shell-extension-maximized-by-default",
+  "description": "Make all windows maximized on start. Fork of https://github.com/aXe1/gnome-shell-extension-maximized-by-default with Gnome 46 support",
   "url": "https://github.com/brennoflavio/gnome-shell-extension-maximized-by-default",
-  "uuid": "gnome-shell-extension-maximized-by-default@brennoflavio.com.br",
+  "uuid": "maximized-by-default@brennoflavio.com.br",
   "shell-version": [
     "46"
   ]
